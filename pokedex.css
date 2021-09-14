@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(184, 0, 0);
+
+}
+
+
+
+
+.btn {
+    background-color: black;
+}
+
+.fab {
+    color: blanchedalmond;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+
+
+.nextPoke {
+    background-color: rgb(91, 129, 160);
+    margin-top: 1.5rem;
+
+}
